@@ -11,7 +11,7 @@
 		<licenseUrl>http://cubiq.org/license</licenseUrl>
 		<requireLicenseAcceptance>false</requireLicenseAcceptance>
 		<copyright>Copyright (c) 2011 Matteo Spinelli</copyright>
-		<tags>scrolling javascript</tags>
+		<tags>scrolling javascript nuget-bot</tags>
 		<dependencies></dependencies>
 	</metadata>
 	<files>
