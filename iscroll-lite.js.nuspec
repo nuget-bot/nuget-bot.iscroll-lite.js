@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+	<metadata>
+		<id>iscroll-lite.js</id>
+		<version>4.1.6</version>
+		<authors>Matteo Spinelli</authors>
+		<title>iscroll-lite.js</title>
+		<description>iScroll is a high performance, small footprint, dependency free, multi-platform javascript scroller.</description>
+		<language>en-US</language>
+		<projectUrl>http://cubiq.org</projectUrl>
+		<licenseUrl>http://cubiq.org/license</licenseUrl>
+		<requireLicenseAcceptance>false</requireLicenseAcceptance>
+		<copyright>Copyright (c) 2011 Matteo Spinelli</copyright>
+		<tags>scrolling javascript</tags>
+		<dependencies></dependencies>
+	</metadata>
+	<files>
+		<file src="**\*.*" target="content" /> 
+	</files>
+</package>
